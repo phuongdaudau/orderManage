@@ -5945,10 +5945,12 @@ section.content {
 .table-bordered tbody tr th {
   padding: 10px;
   border: 1px solid #eee;
+  text-align: center;
 }
 .table-bordered thead tr th {
   padding: 10px;
   border: 1px solid #eee;
+  text-align: center;
 }
 
 /* Panel ======================================= */
